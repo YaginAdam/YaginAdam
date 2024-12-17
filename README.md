@@ -1,12 +1,12 @@
 # Hello, I'm Yagin
 <a href="https://www.linkedin.com/in/yagin-adam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+Seasoned professional with over 5+ years of management experience, including supervising teams, optimizing operations, and leading cross-functional projects to achieve strategic objectives. Proven ability to enhance processes, improve customer satisfaction, and drive results in dynamic retail and international project environments. Currently pursuing a Master of Cyber Security Analysis, with a strong passion for cybersecurity and a deep commitment to developing expertise in threat analysis, risk management, and security operations..
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
